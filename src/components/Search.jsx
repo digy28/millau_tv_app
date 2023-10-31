@@ -20,5 +20,4 @@ export function Search() {
             < Results shows = {results} />
         </>
     )
-
 }
