@@ -5,6 +5,7 @@ import App from './App.jsx'
 import { Show } from './pages/Show.jsx'
 import './index.css'
 import 'bootstrap/dist/css/bootstrap.min.css'
+import 'bootstrap/dist/js/bootstrap.bundle.js'
 
 const router = createBrowserRouter([
   {
